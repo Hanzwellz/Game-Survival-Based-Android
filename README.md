@@ -7,7 +7,7 @@ This is some of my Portofolio 💀💀💀 <br>
 ➡️➡️ https://drive.google.com/file/d/1AfYIEspv4r9TtmwpZl9-8W9NBMIkfn1V/view?usp=drive_link <br>
 note : this game not full version cause this game is still developing until now.
 
-# 🕹 Preview of my game 🕹 :
+#🕹 Preview of my game 🕹 :
 
 1. Splashscreen from Unity
    
@@ -28,3 +28,6 @@ note : this game not full version cause this game is still developing until now.
 5. In Game
 
 ![In Game](https://github.com/Hanzwellz/Game-Survival-Based-Android/assets/140514120/50f63787-9701-4f58-92cb-7023fc09f3c0)
+
+# Script In My Game
+1. Death.cs : Script for if you touch or walk away to the obstacle and you will die after it.
