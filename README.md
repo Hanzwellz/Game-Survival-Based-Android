@@ -21,7 +21,7 @@ And here's some of pict of my game :
 
 3. Stage Menu
 
-[Stage menu](https://github.com/Hanzwellz/Game-Survival-Based-Android/assets/140514120/948d2420-ef54-448f-8533-d4d3fe71c13e)
+![Stage menu](https://github.com/Hanzwellz/Game-Survival-Based-Android/assets/140514120/948d2420-ef54-448f-8533-d4d3fe71c13e)
 
 4. Level Menu
 
