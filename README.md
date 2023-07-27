@@ -30,10 +30,10 @@ note : this game not full version cause this game is still developing until now.
 ![In Game](https://github.com/Hanzwellz/Game-Survival-Based-Android/assets/140514120/50f63787-9701-4f58-92cb-7023fc09f3c0)
 
 # Script In My Game
-1. Death.cs: Script for if you touch or walk away to the obstacle and you will die after it. <br>
-2. GSBAController.cs: Script for running your joystick analog in the game. <br>
-3. LevelMenu.cs: Script for running the Level menu. <br>
-4. MainMenu.cs: Script for running the Main menu. <br>
-5. StageMenu.cs: Script for running the Stage menu. <br>
-6. Respawn.cs: Script for respawn you if you die. (but still bug and does not work now). <br>
-7. BackMainMenu.cs: Script for using back button on your phone. <br>
+1. Death.cs:             Script for if you touch or walk away to the obstacle and you will die after it. <br>
+2. GSBAController.cs:    Script for running your joystick analog in the game. <br>
+3. LevelMenu.cs:         Script for running the Level menu. <br>
+4. MainMenu.cs:          Script for running the Main menu. <br>
+5. StageMenu.cs:         Script for running the Stage menu. <br>
+6. Respawn.cs:           Script for respawn you if you die. (but still bug and does not work now). <br>
+7. BackMainMenu.cs:      Script for using back button on your phone. <br>
