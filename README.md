@@ -31,6 +31,11 @@ And here's some of pict of my game :
 
 ![In Game](https://github.com/Hanzwellz/Game-Survival-Based-Android/assets/140514120/50f63787-9701-4f58-92cb-7023fc09f3c0)
 
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
 
 
 
