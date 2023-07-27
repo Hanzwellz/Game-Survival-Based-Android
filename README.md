@@ -9,7 +9,7 @@ If u want to try this game ⤵️⤵️
 
 note : this game not full version cause this game is still developing until now.
 
-And here's some of pict of my game :
+🕹 Preview of my game 🕹 :
 
 1. Splashscreen from Unity
    
@@ -30,13 +30,3 @@ And here's some of pict of my game :
 5. In Game
 
 ![In Game](https://github.com/Hanzwellz/Game-Survival-Based-Android/assets/140514120/50f63787-9701-4f58-92cb-7023fc09f3c0)
-
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-
-
-
-
-
